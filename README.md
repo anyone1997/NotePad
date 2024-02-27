@@ -1,6 +1,6 @@
 This is a notepad project where CRUD operations are implemented. I'm using Kotlin with Jetpack Compose and SQLlite for manual database management. 
 
-I've tried my best to make this project MVVM, however, it is not ideal yet. I'm planning to add more features to the app.
+I've tried my best to make this project MVVM, however, it is not ideal yet. I'm planning to add more features and tests to the app.
 
 Screenshots of the app that show the functionality and material UI:
 
